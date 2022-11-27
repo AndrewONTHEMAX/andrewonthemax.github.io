@@ -8,15 +8,17 @@
 body {
     margin: 0;
     font-family: sans-serif;
+    background-image: url('../img/BG.jpg');
+    background-size: 100%;
 }
 section {
-    background-color: rgb(29, 29, 29);
+    background-color: rgba(29, 29, 29, 0.500);
     border: 1px solid black;
     color: white;
 }
 
 .hero {
-    background-color: #0B123F;
+    background-color: #0b123f7c;
     height: 100vh;
     color: beige;
     font-size: 40px;
